@@ -162,5 +162,5 @@ References:
 .. [#] ECG-Featurizer: https://github.com/ECG-featurizer/ECG-featurizer
 
 
-
+Copyright 2021 Bjørn-Jostein Singstad
 
