@@ -127,7 +127,6 @@ References:
 .. [#] Perez Alday, Erick A, Annie Gu, Amit J Shah, Chad Robichaux, An-Kwok Ian Wong, Chengyu Liu, Feifei Liu, mfl. «Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020». Physiological Measurement, 11. november 2020. https://doi.org/10.1088/1361-6579/abc960.
 .. [#] ECG-Featurizer: https://github.com/ECG-featurizer/ECG-featurizer
 
-.. include:: isonum.txt
 
 Copyright |copy| 2021 Bjørn-Jostein Singstad
 
