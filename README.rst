@@ -97,10 +97,10 @@ Paper:
 
 The paper describing the work in this project can be found here: 
 
-|latex-file|
+
                                                                                 
-.. |latex-file| image::  https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg
-   :target: https://www.python.org/       
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4445257.svg
+   :target: https://doi.org/10.5281/zenodo.4445257     
 
 
        
