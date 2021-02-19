@@ -34,7 +34,7 @@ The data set in this project contains 43.101 ECGs and comes from six different s
 
 Preprocessing of data:
 ----------------------
-The data used in two different ways by the models in this project. The first method, used by the Convolutional Neural Networks, is to use the as they are from the original dataset. The second method, used by the two ensemble models, is to extract features from the ECGs and and create a table with **n** rows and **m** columns were **n** = numbers of ECG recordings and **m** = number of features. The ECG-features are extracted by using an ECG-featurizer [#]_. The featurized data can be found `here <https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Data/ecg_data_with_labels.csv>`_ and the script for making the dataset is `here <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/Featurize%20data/Featurize_PhysioNet_CinC_Challenge_Data.ipynb>`_ .
+The data used in two different ways by the models in this project. The first method, used by the Convolutional Neural Networks, is to use the as they are from the original dataset. The second method, used by the two ensemble models, is to extract features from the ECGs and and create a table with **n** rows and **m** columns were **n** = numbers of ECG recordings and **m** = number of features. The ECG-features are extracted by using an ECG-featurizer [#]_. The featurized data can be found `here <https://github.com/Bsingstad/IdrettsEKG/blob/main/Data/ecg_data_with_labels.csv>`_ and the script for making the dataset is `here <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/Featurize%20data/Featurize_PhysioNet_CinC_Challenge_Data.ipynb>`_ .
 
 
  
@@ -79,7 +79,7 @@ Models:
 
 Plot the cross-validation results:
 ----------------------------------
-The results from the cross-validated models can be plotted with  `this notebook <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/CVplot/boxplot.ipynb>`_  . The figures can be found `here <https://github.com/Bsingstad/FYS-STK4155-oblig3/tree/master/Results>`_.
+The results from the cross-validated models can be plotted with  `this notebook <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/CVplot/boxplot.ipynb>`_  . The figures can be found `here <https://github.com/Bsingstad/IdrettsEKG/tree/main/Results>`_.
 
 
 Explainable AI:
