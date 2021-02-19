@@ -84,15 +84,13 @@ The results from the cross-validated models can be plotted with  `this notebook 
 
 Explainable AI:
 ===============
-
-Explanination - Convolutional Neural Network:
----------------------------------------------
-The notebook goes here
-
-
-Explanination - Ensemble Model :
---------------------------------
-The notebook goes here
++--------------+----------+---------------------------------------------------------------------------------------------------------------------+
+| Model number | Model    | Link to Notebook on github                                                                                          |
++--------------+----------+---------------------------------------------------------------------------------------------------------------------+
+| 1            | Ensemble | `Notebook <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/Explainable%20AI/Explain%20Ensemble.ipynb>`_ |
++--------------+----------+---------------------------------------------------------------------------------------------------------------------+
+| 2            | Encoder  | `Notebook <https://github.com/Bsingstad/IdrettsEKG/blob/main/Notebooks/Explainable%20AI/Explain%20Encoder.ipynb>`_  |
++--------------+----------+---------------------------------------------------------------------------------------------------------------------+
 
 Paper:
 ======
